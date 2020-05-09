@@ -1,0 +1,12 @@
+{"persons":
+[{"login":1,
+  "lastName":"Турчанова",
+  "firstName":"Анастасия",
+  "thirdName":"Сергеввна",
+  "passport":{"series":"КВ","number":"2175440","idNumber":"60010034578223"},
+  "birthDate":1555491182694,
+  "address":{"actualCity":"MINSK","actualAddress":"ул. Лынькоа 11","releaseCity":"MINSK","releaseAddress":"ул. Лынькова 11"},
+  "nation":"BELARUS",
+  "reservist": true
+}]
+}

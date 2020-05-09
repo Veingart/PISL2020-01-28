@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <lastName>Турчанова</lastName>
+        <firstName>Анастасия</firstName>
+        <thirdName>Сергеевна</thirdName>
+        <birthDate>2000-06-01</birthDate>
+        <address>
+            <actualCity>Минск</actualCity>
+            <actualAddress>ул. Лынькова 11</actualAddress>
+            <releaseCity>Минск</releaseCity>
+            <releaseAddress>ул. Лынькова 11</releaseAddress>
+        </address>
+        <passport>
+            <series>КВ</series>
+            <number>2175440</number>
+            <idNumber>60010034578223</idNumber>
+        </passport>
+        <nation>Беларус</nation>
+        <reservist>false</reservist>
+    </person>
+</persons>
